@@ -3,7 +3,7 @@ import React from 'react'
 const App = () => {
   return (
     <div>
-      car model with three.js
+      <h1>Car Model with three.js.</h1>
     </div>
   )
 }

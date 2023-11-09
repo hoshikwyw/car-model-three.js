@@ -1,6 +1,6 @@
+import * as THREE from 'three'
 import React, { useEffect, useRef } from 'react'
 import {GLTFLoader} from "three/examples/jsm/loaders/GLTFLoader"
-import * as THREE from 'three'
 
 const ModelViewer = () => {
 
